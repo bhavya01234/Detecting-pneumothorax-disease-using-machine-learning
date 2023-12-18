@@ -1,4 +1,4 @@
-# Detecting-pneumothorax-disease-using-machine-learning
+# App-for-predicting-pneumothorax-disease
 A pneumothorax (noo-moe-THOR-aks) is a collapsed lung. A pneumothorax occurs when air leaks into the space between your lung and chest wall. 
 This air pushes on the outside of your lung and makes it collapse.
 
