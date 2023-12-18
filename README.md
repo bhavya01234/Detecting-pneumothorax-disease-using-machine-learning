@@ -1,16 +1,14 @@
 # Detecting-pneumothorax-disease-using-machine-learning
-Detecting pneumothorax disease from x-ray scans and predicting where the disease is present using machine learning.
+A pneumothorax (noo-moe-THOR-aks) is a collapsed lung. A pneumothorax occurs when air leaks into the space between your lung and chest wall. 
+This air pushes on the outside of your lung and makes it collapse.
 
-Pneumothorax disease is a collapsed lung where the air escapes into the space between your lung and chest wall. More severe disease can be life threatening whereas less severe might heal itself.
+A user friendly application is built in Flutter to predict patients having Pneumothorax by training the x-ray scans on a machine learning model.
 
-This project is an an app where a person can upload the image of his/her X-ray scan and see whether he/she has the disease. The model also predicts the severity of the disease and whether he or she must consult the doctor.
+Model used for training: Support Vector Machine(SVM)
+Algorithm for feature reduction: Principal Component Analysis
 
-This project will be built by using Support Vector Machine (SVM) and other image processing techniques.
+Language used for application: Dart in Flutter
 
+This app takes user input of his/her x-ray scan and displays the message whether he/she has the disease or not.
 
-Dataset from - Kaggle (https://www.kaggle.com/datasets/vbookshelf/pneumothorax-chest-xray-images-and-masks)
-
-Contributors - 
-  Madhura Jituri
-  Bhavya Malik
-  Divya
+Current accuracy of model: 72%
