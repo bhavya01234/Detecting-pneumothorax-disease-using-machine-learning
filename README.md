@@ -14,4 +14,4 @@ This app takes user input of his/her x-ray scan and displays the message whether
 Current accuracy of model: 72%
 
 Contributors : Madhura Jituri (Image preprocessing and machine learning)
-               Bhavya Malik (Application in Flutter)
+               , Bhavya Malik (Application in Flutter)
